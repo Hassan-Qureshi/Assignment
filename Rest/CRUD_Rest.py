@@ -54,7 +54,6 @@ def update_document(num):
 
 
 if __name__ == '__main__':
-    print("Threadddddddddd")
     app.run(host='localhost', port=1999, debug=True)
 
 
