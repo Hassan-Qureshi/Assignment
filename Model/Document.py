@@ -1,6 +1,6 @@
-class Document:
-    def __init__(self, id, name, author, description):
-        self.id = id
+class _Document_:
+    def __init__(self, _id, name, author, description):
+        self.id = _id
         self.name = name
         self.author = author
         self.description = description
